@@ -1,0 +1,2 @@
+sentiment analysis depict people's opinion on any movie to determine whether they are positive or negative. In preprocessing, there are tokenization, lemmatization, and stop wotrd removal methods.
+In this research, RNN language model based on Long short term memory is applied on movie review database. This project aims to improve training as well as validation accuracy of movie review sentiment prediction.
